@@ -1,0 +1,12 @@
+1.  2D leikur notar bara 2 axis meðan 3D notar 3.
+
+2.  Platformerar, Leikir sem nota Hægri Vinstri upp niður axis.
+    Top-down/Bullet-hell Leikir sem lítur út fyrir að vera á jöðinni (Hægri Vinstri, Bak og fram.)
+    Puzzle leikir t.d Tetris. Leikir sem passa ekki í efri greinarnar en nota samt bara 2 axis.
+
+3.  2.5D er þegar þú blandar 2D og 3D. 
+    Þar sem Þú getur hreyft character þínum fram og til baka frá platform nær eða fjær skjánum.
+    2.5 getur bætt við miklu í sérstaklega Puzzle leiki. Sjá t.d Paper Mario.
+
+4.  4D leyfir manni að búa til ný puzzle, að reyna hugsa fyrir utan þrívíddar heim sinn.
+    Miegakure notar 4D fyrir einmitt það, að geta komist fyrir framan veggi með því að ganga í aðrari vídd.
